@@ -1,0 +1,9 @@
+.DS_Store
+.nyc_output
+build
+node_modules
+*.env
+coverage
+.idea
+.vscode
+reports
